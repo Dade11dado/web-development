@@ -1,0 +1,25 @@
+hr {
+  border-color: white;
+  border-width: 5px;
+  border-style:dotted none none;
+  width: 10%;
+}
+body{
+  background-color:#F9EBC8;
+}
+h1{
+  color: #A0BCC2;
+}
+h2{
+  color:#A0BCC2;
+}
+h3{
+  color:#A0BCC2;
+}
+a{
+  color:#A0BCC2;
+  text-decoration:none;
+}
+a:hover{
+  font-size:30px;
+}

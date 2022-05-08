@@ -1,0 +1,75 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'EB Garamond', serif;
+}
+
+a {
+  color: #11999E;
+}
+
+h1 {
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 562%;
+  line-height: 2;
+  color: #66bfbf;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px 550px;
+  text-align: left;
+  line-height: 2;
+}
+
+#selfie {
+  border-radius: 50%;
+  width: auto;
+  height: auto;
+  max-width: 100px;
+  max-height: 100px;
+}
+
+h2 {
+  font-family: 'Darker Grotesque', sans-serif;
+  font-weight: normal;
+  color: #66bfbf;
+}
+
+.aereo {
+  width: auto;
+  height: auto;
+  max-width: 100px;
+  max-height: 100px;
+  float: left;
+  margin-right: 30px;
+}
+
+.cani {
+  width: auto;
+  height: auto;
+  max-width: 100px;
+  max-height: 100px;
+  float: right;
+  position: absolute;
+  margin-left: 300px;
+}
+
+h3 {
+  font-family: 'Darker Grotesque', sans-serif;
+  color: #66bfbf;
+}
+
+div {
+  background-color: #EFFFFD;
+}
+
+.bttmcloud {
+  position: absolute;
+}
+
+.topcloud {
+  position: relative;
+  left: 200px;
+}
